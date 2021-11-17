@@ -528,6 +528,14 @@ button:focus {
     margin-top: 7px;
 }
 
+.d-f{
+  display: flex;
+  justify-content: center;
+}
+
+.d-f .a-tag{
+  margin: 20px 30px !important;
+}
 
 /******************************
   #page title
