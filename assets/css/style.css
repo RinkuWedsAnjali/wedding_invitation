@@ -525,7 +525,8 @@ button:focus {
   background-color:#85aaba;
 }
 .navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
-    margin-top: 7px;
+    margin-top: 1px;
+    margin-left: 46px;
 }
 
 .d-f{
@@ -1018,7 +1019,7 @@ div#preloader {
   font-size: 2.1875rem;
   color: #fff;
   padding: 9px 15px;
-  font-family: 'American Typewriter', serif;
+  font-family: 'cursive', serif;
 }
 
 @media (max-width: 991px) {
@@ -1439,7 +1440,7 @@ div#preloader {
 
 @media (max-width: 767px) {
   .site-header .navbar-header .navbar-brand {
-    font-size: 46px;
+    font-size: 34px;
   }
   .site-header #navbar .navbar-nav {
     margin: 0;
