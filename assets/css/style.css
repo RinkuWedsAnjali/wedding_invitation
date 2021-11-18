@@ -521,6 +521,20 @@ button:focus {
   text-align: center;
 }
 
+.centered{
+  justify-content: center;
+  display: flex;
+}
+
+.white-bg{
+  background-color: #fff !important;
+  color: #000;
+}
+
+.font-change{
+  font-family: 'Satisfy', cursive !important;
+}
+
 .social-links li a:hover {
   background-color:#85aaba;
 }
