@@ -79,7 +79,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #333333;
+  color: rgb(179, 49, 49);;
 }
 
 a {
@@ -1018,7 +1018,7 @@ div#preloader {
   font-size: 2.1875rem;
   color: #fff;
   padding: 9px 15px;
-  font-family: 'Great Vibes', cursive;
+  font-family: 'American Typewriter', serif;
 }
 
 @media (max-width: 991px) {
@@ -1148,7 +1148,7 @@ div#preloader {
     -ms-transition: all 0.3s;
     transition: all 0.3s;
     -webkit-box-shadow: 0 2px 10px #969595;
-    box-shadow: 0 2px 10px #969595;
+    box-shadow: 0 2px 10px#c380bf;
   }
   .site-header #navbar > ul > li .sub-menu li {
     border-bottom: 1px solid #ededed;
@@ -1439,7 +1439,7 @@ div#preloader {
 
 @media (max-width: 767px) {
   .site-header .navbar-header .navbar-brand {
-    font-size: 24px;
+    font-size: 46px;
   }
   .site-header #navbar .navbar-nav {
     margin: 0;
@@ -1560,7 +1560,7 @@ div#preloader {
   text-align: left;
 }
 .hero-slider .slide-inner .slide-content{
-  background: rgba(133,170,186,.8);
+  background: rgba(185,133,186,.8);
   border-top-right-radius: 80px;
   border-bottom-left-radius: 80px;
   -webkit-animation: spineer 2s infinite;
@@ -1573,28 +1573,28 @@ div#preloader {
 
 @-webkit-keyframes spineer {
   0% {
-    -webkit-box-shadow: 0 0 0 0#85aaba;
+    -webkit-box-shadow: 0 0 0 0#B985BA;
   }
   70% {
-    -webkit-box-shadow: 0 0 0 20px rgba(255,255,255,0);
+    -webkit-box-shadow: 0 0 0 20px rgba(185,133,186,.8);
   }
   100% {
-    -webkit-box-shadow: 0 0 0 0 rgba(255,255,255,0);
+    -webkit-box-shadow: 0 0 0 0 rgba(185,133,186,.8);
   }
 }
 
 @keyframes spineer {
   0% {
-    -webkit-box-shadow: 0 0 0 0#85aaba;
-    box-shadow: 0 0 0 0#85aaba;
+    -webkit-box-shadow: 0 0 0 0#B985BA;
+    box-shadow: 0 0 0 0#B985BA;
   }
   70% {
-    -webkit-box-shadow: 0 0 0 20px rgba(255,255,255,0);
-    box-shadow: 0 0 0 20px rgba(255,255,255,0);
+    -webkit-box-shadow: 0 0 0 20px rgba(185,133,186,.8);
+    box-shadow: 0 0 0 20px rgba(185,133,186,.8);
   }
   100% {
-    -webkit-box-shadow: 0 0 0 0 rgba(255,255,255,0);
-    box-shadow: 0 0 0 0 rgba(255,255,255,0);
+    -webkit-box-shadow: 0 0 0 0 rgba(185,133,186,.8);
+    box-shadow: 0 0 0 0 rgba(185,133,186,.8);
   }
 }
 .hero-slider .swiper-button-prev,
@@ -1810,7 +1810,7 @@ div#preloader {
 }
 
 .site-footer .text{
-  background: rgba(133,170,186,.9);
+  background: rgba(185,133,186,.8);
   max-width: 600px;
   margin: auto;
   padding: 60px 0;
@@ -2077,7 +2077,7 @@ div#preloader {
 }
 .couple-content h4 {
     font-size: 40px;
-    color: #444;
+    color: rgb(179, 49, 49);
     font-weight: 700;
     font-family: 'Great Vibes', cursive;
     text-transform: capitalize;
@@ -2190,7 +2190,7 @@ couple-area end
 @media (max-width: 767px) {
     .count-down-section h2>span {
         font-size: 60px;
-        font-size: 1.11111rem;
+        font-size: 1.8rem;
     }
 }
 
@@ -2380,7 +2380,7 @@ couple-area end
 }
 
 .story-section .story-timeline h3 {
-  font-size: 25px;
+  font-size: 35px;
   font-weight: 600;
   color: #444;
   margin: 0 0 0.5em;
@@ -2390,20 +2390,20 @@ couple-area end
 
 @media (max-width: 991px) {
   .story-section .story-timeline h3 {
-    font-size: 20px;
+    font-size: 35px;
     font-size: 1.11111rem;
   }
 }
 
 @media (max-width: 767px) {
   .story-section .story-timeline h3 {
-    font-size: 18px;
+    font-size: 35px;
     font-size: 1rem;
   }
 }
 
 .story-section .story-timeline .date {
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 600;
   display: block;
   margin-bottom: 15px;
@@ -2454,28 +2454,28 @@ animation: spineer 2s infinite;
 }
 @-webkit-keyframes spineer {
   0% {
-    -webkit-box-shadow: 0 0 0 0 #85aaba;
+    -webkit-box-shadow: 0 0 0 0 #B985BA;
   }
   70% {
-    -webkit-box-shadow: 0 0 0 20px rgba(250,92,93,.0);
+    -webkit-box-shadow: 0 0 0 20px rgba(185,133,186,.8);
   }
   100% {
-    -webkit-box-shadow: 0 0 0 0 rgba(250,92,93,.0);
+    -webkit-box-shadow: 0 0 0 0 rgba(185,133,186,.8);
   }
 }
 
 @keyframes spineer {
   0% {
-    -webkit-box-shadow: 0 0 0 0 #85aaba;
-    box-shadow: 0 0 0 0 #85aaba;
+    -webkit-box-shadow: 0 0 0 0 #B985BA;
+    box-shadow: 0 0 0 0 #B985BA;
   }
   70% {
-    -webkit-box-shadow: 0 0 0 20px rgba(250,92,93,.0);
-    box-shadow: 0 0 0 20px rgba(255,255,255,0);
+    -webkit-box-shadow: 0 0 0 20px rgba(185,133,186,.8);
+    box-shadow: 0 0 0 20px rgba(185,133,186,.8);
   }
   100% {
-    -webkit-box-shadow: 0 0 0 0 rgba(250,92,93,.0);
-    box-shadow: 0 0 0 0 rgba(250,92,93,.0);
+    -webkit-box-shadow: 0 0 0 0 rgba(185,133,186,.8);
+    box-shadow: 0 0 0 0 rgba(185,133,186,.8);
   }
 }
 .story-section .video-holder .video-btn .fi:before{
@@ -2494,7 +2494,7 @@ animation: spineer 2s infinite;
 =================================*/
 
 .cta-area {
-    background: url(../images/cta/333.jpg) no-repeat center center / cover;
+    background: url(../images/cta/what_knot_in.jpg) no-repeat center center / cover;
     position: relative;
     background-attachment: fixed;
 }
